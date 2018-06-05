@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 . /opt/farm/scripts/init
 
 # /var/cache/cacti is a common caching directory used by several monitoring
